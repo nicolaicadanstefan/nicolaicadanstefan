@@ -13,7 +13,7 @@ Junior C# developer who likes to make more and more complex applications and rai
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaicadanstefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![A samurai without a sword is like a samurai, only without a sword](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nicolaicadanstefan&icon=5&color=0)](https://visitcount.itsvg.in)
