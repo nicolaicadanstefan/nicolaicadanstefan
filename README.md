@@ -12,7 +12,7 @@ Junior C# developer who likes to make more and more complex applications and rai
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicolaicadanstefan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaicadanstefan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ My favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
