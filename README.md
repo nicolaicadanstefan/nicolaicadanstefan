@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior C#/PHP developer who likes to make more and more complex applications and raise my standards.<br>Shoot me an Email or add me on Linkedin :)
+Junior Kotlin/Java developer who likes to make more and more complex applications and raise my standards.<br>Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
